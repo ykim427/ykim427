@@ -6,4 +6,6 @@ How to run program:
 
 -Extract all files into the project folder
 
+-Open main3.cpp, Square.cpp, Square.h
+
 -Ctrl + F5 to run
